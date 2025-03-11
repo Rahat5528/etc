@@ -1,6 +1,7 @@
 {
   "version": 1,
   "mods": [
+    "https://github.com/Rahat5528/client/releases/download/1.0.0.0/lib1",
     "https://github.com/Rahat5528/client/releases/download/1.0.0.0/arenaex"
   ]
 }
