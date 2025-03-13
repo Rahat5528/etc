@@ -1,6 +1,7 @@
 {
   "version": 1,
   "mods": [
+    "https://github.com/Rahat5528/client/releases/download/2.0.0/netstandard20.dll",
     "https://github.com/Rahat5528/client/releases/download/2.0.0/System.Buffers.dll",
     "https://github.com/Rahat5528/client/releases/download/2.0.0/System.Memory.dll",
     "https://github.com/Rahat5528/client/releases/download/2.0.0/System.Numerics.Vectors.dll",
