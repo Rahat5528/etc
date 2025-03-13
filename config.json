@@ -1,6 +1,10 @@
 {
   "version": 1,
   "mods": [
+    "https://github.com/Rahat5528/client/releases/download/2.0.0/AsmResolver.dll",
+    "https://github.com/Rahat5528/client/releases/download/2.0.0/AsmResolver.PE.File.dll",
+    "https://github.com/Rahat5528/client/releases/download/2.0.0/AsmResolver.PE.dll",
+    "https://github.com/Rahat5528/client/releases/download/2.0.0/AsmResolver.DotNet.dll",
     "https://github.com/Rahat5528/client/releases/download/2.0.0/SSClient.Infector.dll"
   ]
 }
