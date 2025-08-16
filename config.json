@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "mods": [
+    "https://github.com/Rahat5528/public/releases/download/1.0.0/Logger.dll",
+    "https://github.com/Rahat5528/client/releases/download/2.0.0/0Harmony.dll",
+    "https://github.com/Rahat5528/client/releases/download/2.0.0/System.Drawing.dll"
+  ]
+}
